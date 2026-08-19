@@ -3,11 +3,10 @@
 // @namespace    https://www.discogs.com/
 // @version      2.4.0
 // @description  Juno preview player for Discogs
-// @author       You
+// @author       Nino_Industries
 // @match        https://www.discogs.com/sell/list*
 // @match        https://www.discogs.com/sell/mywants*
 // @match        https://www.discogs.com/marketplace*
-// @match        https://www.discogs.com/wantlist*
 // @match        https://www.discogs.com/seller/*/profile*
 // @match        https://www.discogs.com/sell/item*
 // @match        https://www.discogs.com/release/*
